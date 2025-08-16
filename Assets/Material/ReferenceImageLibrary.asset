@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5084935747916681424
+  m_GuidHigh: 9375777454548194205
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5731337733214066609
+      m_GuidHigh: 7970229070559746203
+    m_SerializedTextureGuid:
+      m_GuidLow: 8417914218099014893
+      m_GuidHigh: 15517645196002042505
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: cow
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5243061035314703525
+      m_GuidHigh: 13522943186548420027
+    m_SerializedTextureGuid:
+      m_GuidLow: 6060407950686400412
+      m_GuidHigh: 12418123223848720091
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Got
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4679746543260670564
+      m_GuidHigh: 6904603558394726308
+    m_SerializedTextureGuid:
+      m_GuidLow: 16438897622324984214
+      m_GuidHigh: 15258316135149005915
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: crow
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5305292572093509583
+      m_GuidHigh: 11448135560364618150
+    m_SerializedTextureGuid:
+      m_GuidLow: 13001107418044620722
+      m_GuidHigh: 6487759057623220458
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: lion
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5587488240962875887
+      m_GuidHigh: 16497714395785635484
+    m_SerializedTextureGuid:
+      m_GuidLow: 7268610195952233744
+      m_GuidHigh: 16394096813858188154
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: human
+    m_Texture: {fileID: 0}
